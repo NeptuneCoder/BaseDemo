@@ -1,1 +1,1 @@
-guideDemo
+该Demo种包含引导页，主界面中包含的RadioGroup+ViewPager

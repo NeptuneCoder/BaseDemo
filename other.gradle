@@ -1,0 +1,4 @@
+task other << {
+    beginIndex = 3
+    println 'other gradle file ----------------->'
+}
